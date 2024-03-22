@@ -1,0 +1,7 @@
+in this blog i will discuss some important topics of the algorithm and data structures.
+
+first topic is linear search
+in linear search we have one array with n elements and we want to find location of any particular element 
+so we will have to look one by one each elements untill we get our desired element
+in best case its time complexity will be O(1)
+in worst and average case its time complexity will be O(n)
